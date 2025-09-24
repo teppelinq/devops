@@ -1,6 +1,5 @@
 **INSTRUCTIONS**    
 
-![workflow](https://github.com/teppelinq/devops/actions/workflows/main.yml/badge.svg)
 
 License [![LICENSE](https://img.shields.io/github/license/teppelinq/devops.svg?style=flat-square)](https://github.com/teppelinq/devops/blob/master/LICENSE)
 
