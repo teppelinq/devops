@@ -1,11 +1,10 @@
-**INSTRUCTIONS**
-
-*Workflow added*
+**INSTRUCTIONS**    
 
 ![workflow](https://github.com/teppelinq/devops/actions/workflows/main.yml/badge.svg)
 
-[![LICENSE](https://img.shields.io/github/license/teppelinq/devops.svg?style=flat-square)](https://github.com/teppelinq/devops/blob/master/LICENSE)
+License [![LICENSE](https://img.shields.io/github/license/teppelinq/devops.svg?style=flat-square)](https://github.com/teppelinq/devops/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/teppelinq/devops/all.svg?style=flat-square)](https://github.com/tepelinq/devops/releases)
+Release [![Releases](https://img.shields.io/github/release/teppelinq/devops/all.svg?style=flat-square)](https://github.com/teppelinq/devops/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/teppelinq/devops/main.yml?branch=develop&style=flat-square)
+Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/teppelinq/devops/main.yml?branch=develop&style=flat-square)
+Main Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/teppelinq/devops/main.yml?branch=main&style=flat-square)
