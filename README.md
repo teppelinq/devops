@@ -8,4 +8,4 @@
 
 [![Releases](https://img.shields.io/github/release/teppelinq/devops/all.svg?style=flat-square)](https://github.com/tepelinq/devops/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/teppelinq/devops/checkout@v4/develop?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/teppelinq/devops/Hello%20world%20action/develop?style=flat-square)
